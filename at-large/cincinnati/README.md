@@ -152,3 +152,150 @@ Estimates of Aggregate Quantities of Interest
 * Precision = 4 
 
 ## EI Results (2014-2018 CVAP)
+Model: Cranley ~ WCVAP
+* Erho = 10
+* Esigma = 0.5
+* Ebeta = 0.5
+* N = 187
+* Resamp = 23
+
+Maximum likelihood results in scale of estimation (and se's)
+| Bb0 | Bw0 | sigB | sigW | rho | Zb | Zw |
+|-----|-----|------|------|-----|----|----|
+| 1.1524446 | -0.84339699 | -1.3103172 | -2.2520974 | 0.4182682 | 0 | 0 |
+| 0.2031954 | 0.06214726 | 0.1941885 | 0.1135562 | 0.3009096 | 0 | 0 |
+
+Untruncated psi's
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.8838564 | 0.2819781 | 0.2758997 | 0.1061028 | 0.3821274 |
+
+Truncated psi's (ultimate scale)
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.7301073 | 0.2628188 | 0.1857925 | 0.09941249 | 0.2625498 |
+
+Aggregate Bounds
+| | betab | betaw |
+|-|-------|-------|
+| lower | 0.4224935 | 0.1350429 |
+| upper | 0.8274655 | 0.6895557 |
+
+Estimates of Aggregate Quantities of Interest
+| | mean | sd |
+|-|------|----|
+| Bb | 0.7363149 | 0.00690510 |
+| Bw | 0.2598520 | 0.00945489 |
+
+* Precision = 4   
+
+Model: Simpson ~ WCVAP
+* Erho = 10
+* Esigma = 0.5
+* Ebeta = 0.5
+* N = 187
+* Resamp = 4
+
+Maximum likelihood results in scale of estimation (and se's)
+| Bb0 | Bw0 | sigB | sigW | rho | Zb | Zw |
+|-----|-----|------|------|-----|----|----|
+| -1.1524482 | 0.84339556 | -1.3103141 | -2.2520970 | 0.4182696 | 0 | 0 |
+|  0.2126373 | 0.06151264 |  0.2194987 | 0.1136188 | 0.3534359 | 0 | 0 |
+
+Untruncated psi's
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.1225254 | 0.7212409 | 0.2714514 | 0.1050518 | 0.3875185 |
+
+Truncated psi's (ultimate scale)
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.2694179 | 0.7399902 | 0.1851987 | 0.09853719 | 0.2720267 |
+
+Aggregate Bounds
+| | betab | betaw |
+|-|-------|-------|
+| lower | 0.1725345 | 0.3104443 |
+| upper | 0.5775065 | 0.8649571 |
+
+Estimates of Aggregate Quantities of Interest
+| | mean | sd |
+|-|------|----|
+| Bb | 0.2629313 | 0.005763089 |
+| Bw | 0.7411802 | 0.007891178 |
+
+* Precision = 4
+
+Model: Cranley ~ BCVAP
+* Erho = 10
+* Esigma = 0.5
+* Ebeta = 0.5
+* N = 187
+* Resamp = 24
+
+Maximum likelihood results in scale of estimation (and se's)
+| Bb0 | Bw0 | sigB | sigW | rho | Zb | Zw |
+|-----|-----|------|------|-----|----|----|
+| -0.97622244 | 0.9288404 | -2.3153279 | -1.4122743 | 0.1891827 | 0 | 0 |
+| 0.06476438 | 0.1361028 | 0.1366854 | 0.1487255 | 0.2816945 | 0 | 0 |
+
+Untruncated psi's
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.2449813 | 0.7907512 | 0.1017768 | 0.2458786 | 0.1855239 |
+
+Truncated psi's (ultimate scale)
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.2422199 | 0.7058401 | 0.09742193 | 0.1865022 | 0.128863 |
+
+Aggregate Bounds
+| | betab | betaw |
+|-|-------|-------|
+| lower | 0.1106571 | 0.4478352 |
+| upper | 0.6826015 | 0.7869073 |
+
+Estimates of Aggregate Quantities of Interest
+| | mean | sd |
+|-|------|----|
+| Bb | 0.2414113 | 0.008703286 |
+| Bw | 0.7093908 | 0.005159665 |
+
+* Precision = 4   
+
+Model: Simpson ~ BCVAP
+* Erho = 10
+* Esigma = 0.5
+* Ebeta = 0.5
+* N = 187
+* Resamp = 36
+
+Maximum likelihood results in scale of estimation (and se's)
+| Bb0 | Bw0 | sigB | sigW | rho | Zb | Zw |
+|-----|-----|------|------|-----|----|----|
+| 0.9762215 | -0.9288413 | -2.3153281 | -1.4122733 | 0.1891832 | 0 | 0 |
+| 0.7145996 | 0.2429969 | 0.3822741 | 0.6489469 | 0.1990084 | 0 | 0 |
+
+Untruncated psi's
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.7522056 | 0.2042501 | 0.09993073 | 0.2482373 | 0.1910953 |
+
+Truncated psi's (ultimate scale)
+| BB | BW | SB | SW | RHO | 
+|----|----|----|----|-----|
+| 0.7585431 | 0.2933327 | 0.09714943 | 0.1874881 | 0.1246195 |
+
+Aggregate Bounds
+| | betab | betaw |
+|-|-------|-------|
+| lower | 0.3173985 | 0.2130927 |
+| upper | 0.8893429 | 0.5521648 |
+
+Estimates of Aggregate Quantities of Interest
+| | mean | sd |
+|-|------|----|
+| Bb | 0.7589060 | 0.010259572 |
+| Bw | 0.2904211 | 0.006082295 |
+
+* Precision = 4 
