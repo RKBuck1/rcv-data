@@ -1,6 +1,6 @@
 # Denham Springs City Council Special Election 2017
 
-# EI Results with Early Votes (2014-2018 CVAP)
+## EI Results with Early Votes (2014-2018 CVAP)
 Model: Riley ~ WCVAP
 * Erho = 10
 * Esigma = 0.5
